@@ -19,6 +19,7 @@ public class Punto {
 }
 
 
+
 // public class Punto {
 // 	public void AsignarCoordenadasAlCentro1 (double Coordenada1,double Coordenada2) {
 // 		System.out.println("-> El primer Centro tiene coordenas:");
