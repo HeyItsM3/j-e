@@ -1,1 +1,1 @@
-# Java exercise
+# Arg - Program Exercise
